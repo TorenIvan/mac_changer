@@ -10,7 +10,7 @@ HOW IT WORKS:
 	
 	1. Turns down your device and stops network-manager
 	
-	2. Change the mac to a random one
+	2. Change the mac address to a random one
 	
 	3. Turns up the device and starts network-manager
 
